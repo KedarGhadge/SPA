@@ -1,3 +1,40 @@
 #page {
-	margin-top: 80px;
+  margin-top: 80px;
+}
+
+.imholder {
+  border-style: inset;
+  border-width: 0.7px;
+  border-color: charcoal;
+  width: 70%;
+  height: 500px;
+  padding: 30px;
+}
+
+.button {
+  background-color: #7284bf; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #6071a5;
+}
+.button:active {
+  background-color: #5a6999;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#display-image {
+  width: 800px;
+  height: 550px;
+  border: 1px solid black;
+  background-position: center;
+  background-size: cover;
 }

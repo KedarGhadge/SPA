@@ -38,6 +38,7 @@ var requireJsRuntimeConfig = vm.runInNewContext(
       "components/nav-bar/nav-bar",
       "components/home-page/home",
       "text!components/about-page/about.html",
+      "components/Image-holder/image_holder",
     ],
     insertRequire: ["app/startup"],
     bundles: {
