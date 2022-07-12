@@ -4,6 +4,10 @@
 > Languages Used
 > ![JS](https://img.shields.io/github/languages/top/kedarghadge/spa?style=for-the-badge) ![count](https://img.shields.io/github/languages/count/kedarghadge/spa?style=for-the-badge)
 
+---
+
+[![Generic badge](https://img.shields.io/badge/Project-SPA-yellow.svg?style=for-the-badge)](https://shields.io/)
+
 # Introduction
 
 - Created project for the study purpose of the Single page applications using knockout js
@@ -11,20 +15,21 @@
 
 # Plan
 
-| Index | Plan                               | Completion |
-| ----- | ---------------------------------- | ---------- |
-| 1     | Make a normal UI                   | 100%       |
-| 2     | Make an page for the image editing | 30%        |
-| 3     | Add section to add image           | 100%       |
-| 4     | add section to editing pallette    | 0%         |
+| Index | Plan                               | Completion                        |
+| ----- | ---------------------------------- | --------------------------------- |
+| 1     | Make a normal UI                   | ![](https://progress-bar.dev/100) |
+| 2     | Make an page for the image editing | ![](https://progress-bar.dev/30)  |
+| 3     | Add section to add image           | ![](https://progress-bar.dev/100) |
+| 4     | add section to editing pallette    | ![](https://progress-bar.dev/0)   |
 
 # Changes made
 
 <details open>
 <summary style="color:#5a6999">[07/03/2022 04:55pm]</summary>
 
-- Added the code to import and show image
+- Added the code to import and show image.
 - The dimensions of image box is fixed and not changed yet.
 - Color palate or other editing tools has not been added yet.
+- Use canvas for image display functionality is still pending.
 
 </details>
