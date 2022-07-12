@@ -24,7 +24,7 @@
 
 # Changes made
 
-<details open>
+<details >
 <summary style="color:#5a6999">[07/03/2022 04:55pm]</summary>
 
 - Added the code to import and show image.
