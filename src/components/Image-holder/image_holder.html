@@ -14,12 +14,21 @@
     <!-- <button class="button button1" onclick="">Upload Image</button> -->
     <input
       class="button button1"
+      data-bind="event: { change: function() { handleImage($element.files[0]) } }"
       type="file"
       id="image-input"
       accept="image/jpeg, image/png, image/jpg"
     />
     <br /><br /><br />
-    <div id="display-image"></div>
+    <!-- <div id="display-image"></div> -->
     <div>Tools Section</div>
+
+    <canvas
+      id="myCanvas"
+      width="200"
+      height="100"
+      style="border: 1px solid #000000"
+    >
+    </canvas>
   </body>
 </html>
