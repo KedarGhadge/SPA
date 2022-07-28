@@ -18,13 +18,25 @@
 | Index | Plan                               | Completion                        |
 | ----- | ---------------------------------- | --------------------------------- |
 | 1     | Make a normal UI                   | ![](https://progress-bar.dev/100) |
-| 2     | Make an page for the image editing | ![](https://progress-bar.dev/30)  |
+| 2     | Make an page for the image editing | ![](https://progress-bar.dev/40)  |
 | 3     | Add section to add image           | ![](https://progress-bar.dev/100) |
-| 4     | add section to editing pallette    | ![](https://progress-bar.dev/0)   |
+| 4     | add section to editing pallette    | ![](https://progress-bar.dev/10)  |
 | 5     | Add canvas for better editing      | ![](https://progress-bar.dev/100) |
+
+# Other installation
+
+- Install fontawesome-free-5.15.4 on your system
 
 # Changes Log
 
+<details >
+<summary style="color:#5a6999">[07/29/2022 12:07am]</summary>
+
+- Added Grayscale button
+- Added Donload button for image
+- Added seprate fonts at css
+
+</details>
 <details >
 <summary style="color:#5a6999">[07/27/2022 08:39pm]</summary>
 

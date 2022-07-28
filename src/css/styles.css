@@ -23,6 +23,18 @@
   margin: 4px 2px;
   cursor: pointer;
 }
+.button2::before {
+  content: "\f043";
+  font-weight: 900;
+  font-family: "Font Awesome 5 Free" !important;
+  color: black;
+}
+.button3::before {
+  content: "\f019";
+  font-weight: 900;
+  font-family: "Font Awesome 5 Free" !important;
+  color: black;
+}
 .button:hover {
   background-color: #6071a5;
 }
